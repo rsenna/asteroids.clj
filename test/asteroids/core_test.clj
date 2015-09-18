@@ -1,6 +1,6 @@
-(ns asteroids.clj-test
+(ns asteroids.core-test
   (:require [clojure.test :refer :all]
-            [asteroids.clj :refer :all]))
+            [asteroids.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

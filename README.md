@@ -1,4 +1,4 @@
-# asteroids.clj
+# asteroids
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar asteroids.clj-0.1.0-standalone.jar [args]
+    $ java -jar asteroids-0.1.0-standalone.jar [args]
 
 ## Options
 

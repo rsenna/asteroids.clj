@@ -1,4 +1,4 @@
-(ns asteroids.clj
+(ns asteroids.core
   (:gen-class))
 
 (defn -main
